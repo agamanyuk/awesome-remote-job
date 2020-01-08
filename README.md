@@ -133,6 +133,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+  1. [Tarta.ai](https://tarta.ai/) - Tarta bot monitors remote jobs and match job seekers with the best ones. Tarta is focused on programming, QA, product, sales and marketing jobs.
   1. [Authentic Jobs](https://authenticjobs.com/#remote=true)
   1. [Codestunts](https://codestunts.com)
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
